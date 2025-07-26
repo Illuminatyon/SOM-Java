@@ -17,7 +17,7 @@
 
 ## 📘 Descripción general del proyecto
 
-Este proyecto es una implementación simplificada de un Mapa Auto-Organizado (SOM) desarrollado en el tercer año de Licenciatura en la Universidad Paris 8. También está disponible una versión en C del proyecto. Puedes acceder al repositorio de la versión en C aquí. El objetivo principal era comprender el funcionamiento del algoritmo SOM recreando una versión desde cero con las siguientes restricciones:
+Este proyecto es una implementación simplificada de un Mapa Auto-Organizado (SOM) desarrollado por mi pasión por las matemáticas y mi interés en ingresar a una prestigiosa escuela de ingeniería. También está disponible una versión en C del proyecto. Puedes acceder al repositorio de la versión en C aquí. El objetivo principal era comprender el funcionamiento del algoritmo SOM recreando una versión desde cero con las siguientes restricciones:
 
 - No se utilizan variables globales.
 - Las BMUs (Best Matching Units) se almacenan en una lista enlazada.
@@ -105,10 +105,6 @@ Cuando ejecutes la aplicación, verás el proceso de entrenamiento del SOM y la 
 6. Asignación y visualización de etiquetas de clase
 
 La salida final mostrará una cuadrícula de neuronas con sus clases asignadas, mostrando cómo el SOM ha organizado los datos en clusters.
-
-## 🙌 Agradecimientos
-
-Me gustaría agradecer a mi instructor por ofrecerme este proyecto y por sus valiosos consejos.
 
 ## Componentes
 

@@ -17,7 +17,7 @@
 
 ## 📘 Project Overview
 
-This project is a simplified implementation of a Self-Organizing Map (SOM) developed in Bachelor's 3 at Université Paris 8. A C version of the project is also available. You can access the C version's repository here. The main objective was to understand the workings of the SOM algorithm by recreating a from scratch version with the following constraints:
+This project is a simplified implementation of a Self-Organizing Map (SOM) developed out of my passion for mathematics and my interest in joining a prestigious engineering school. A C version of the project is also available. You can access the C version's repository here. The main objective was to understand the workings of the SOM algorithm by recreating a from scratch version with the following constraints:
 
 - No global variables used.
 - BMUs (Best Matching Units) are stored in a linked list.
@@ -148,10 +148,6 @@ When you run the application, you'll see the SOM training process and the result
 6. Class label assignment and visualization
 
 The final output will display a grid of neurons with their assigned classes, showing how the SOM has organized the data into clusters.
-
-## 🙌 Acknowledgements
-
-I would like to thank my instructor for offering me this project and for his valuable advice.
 
 ## Components
 

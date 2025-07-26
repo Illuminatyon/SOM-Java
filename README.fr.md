@@ -17,7 +17,7 @@
 
 ## 📘 Aperçu du projet
 
-Ce projet est une implémentation simplifiée d'une Carte Auto-Organisatrice (SOM) développée en Licence 3 à l'Université Paris 8. Une version C du projet est également disponible. Vous pouvez accéder au dépôt de la version C ici. L'objectif principal était de comprendre le fonctionnement de l'algorithme SOM en recréant une version à partir de zéro avec les contraintes suivantes :
+Ce projet est une implémentation simplifiée d'une Carte Auto-Organisatrice (SOM) développée par passion pour les mathématiques et par intérêt pour intégrer une grande école d'ingénieur. Une version C du projet est également disponible. Vous pouvez accéder au dépôt de la version C ici. L'objectif principal était de comprendre le fonctionnement de l'algorithme SOM en recréant une version à partir de zéro avec les contraintes suivantes :
 
 - Aucune variable globale utilisée.
 - Les BMU (Best Matching Units) sont stockées dans une liste chaînée.
@@ -105,10 +105,6 @@ Lorsque vous exécutez l'application, vous verrez le processus d'entraînement S
 6. Attribution et visualisation des étiquettes de classe
 
 La sortie finale affichera une grille de neurones avec leurs classes assignées, montrant comment le SOM a organisé les données en clusters.
-
-## 🙌 Remerciements
-
-Je tiens à remercier mon instructeur pour m'avoir proposé ce projet et pour ses précieux conseils.
 
 ## Composants
 
