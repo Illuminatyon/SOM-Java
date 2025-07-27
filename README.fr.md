@@ -77,8 +77,8 @@ Si vous n'avez pas Java installé, vous pouvez suivre les instructions dans l'un
 ### Cloner le dépôt
 
 ```bash
-git clone https://github.com/Fab16BSB/SOM_JAVA.git
-cd SOM_JAVA
+git clone https://github.com/Illuminatyon/SOM-Java.git
+cd SOM_Java
 ```
 
 ### Compilation
