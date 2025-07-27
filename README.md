@@ -68,9 +68,9 @@ The result is a topologically organized map, where similar classes are found in 
 
 If you don't have Java installed, you can follow the instructions in one of my YouTube videos for installing Java on different platforms:
 
-- Linux: [Install Java on Linux](https://www.youtube.com/watch?v=example1)
-- Mac: [Install Java on Mac](https://www.youtube.com/watch?v=example2)
-- Windows: [Install Java on Windows](https://www.youtube.com/watch?v=example3)
+- Linux: [Install Java on Linux](https://www.youtube.com/watch?v=SQykK40fFds)
+- Mac: [Install Java on Mac](https://www.youtube.com/watch?v=UwytmFFQF6Y)
+- Windows: [Install Java on Windows](https://www.youtube.com/watch?v=PQk9O03cukQ)
 
 ## 📝 Compilation and Execution
 

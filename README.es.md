@@ -68,9 +68,9 @@ El resultado es un mapa organizado topológicamente, donde clases similares se e
 
 Si no tienes Java instalado, puedes seguir las instrucciones en uno de mis videos de YouTube para instalar Java en diferentes plataformas:
 
-- Linux: [Instalar Java en Linux](https://www.youtube.com/watch?v=example1)
-- Mac: [Instalar Java en Mac](https://www.youtube.com/watch?v=example2)
-- Windows: [Instalar Java en Windows](https://www.youtube.com/watch?v=example3)
+- Linux: [Instalar Java en Linux](https://www.youtube.com/watch?v=QauitHvQZHA)
+- Mac: [Instalar Java en Mac](https://www.youtube.com/watch?v=4WKo13f2Qpc)
+- Windows: [Instalar Java en Windows](https://www.youtube.com/watch?v=pShVlXCM75I)
 
 ## 📝 Compilación y ejecución
 
