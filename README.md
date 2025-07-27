@@ -77,8 +77,8 @@ If you don't have Java installed, you can follow the instructions in one of my Y
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Fab16BSB/SOM_JAVA.git
-cd SOM_JAVA
+git clone https://github.com/Illuminatyon/SOM-Java.git
+cd SOM-Java
 ```
 
 ### Using the build script (Windows)
