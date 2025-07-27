@@ -17,7 +17,7 @@
 
 ## 📘 Project Overview
 
-This project is a simplified implementation of a Self-Organizing Map (SOM) developed out of my passion for mathematics and my interest in joining a prestigious engineering school. A C version of the project is also available. You can access the C version's repository here. The main objective was to understand the workings of the SOM algorithm by recreating a from scratch version with the following constraints:
+This project is a simplified implementation of a Self-Organizing Map (SOM) developed out of my passion for mathematics and my interest in joining a prestigious engineering school. The main objective was to understand the workings of the SOM algorithm by recreating a from scratch version with the following constraints:
 
 - No global variables used.
 - BMUs (Best Matching Units) are stored in a linked list.
